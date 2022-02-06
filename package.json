@@ -1,0 +1,16 @@
+{
+  "name": "nfy21",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "nodejs ffmpeg downloader and youtube uploader",
+  "scripts": {
+    "start": "node ./main.js"
+  },
+  "author": "gornostay25",
+  "license": "ISC",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "mustache": "^4.2.0"
+  }
+}
